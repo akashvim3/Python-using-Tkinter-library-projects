@@ -30,7 +30,7 @@ To run these projects, you need to have Python installed on your machine. You ca
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/Python-projects.git
+   https://github.com/akashvim3/Python-using-Tkinter-library-projects.git
    cd Python-projects
 
 Install any required libraries:
