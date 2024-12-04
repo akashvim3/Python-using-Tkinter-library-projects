@@ -35,59 +35,18 @@ To run these projects, you need to have Python installed on your machine. You ca
 
 Install any required libraries:
 
-pip install -r requirements.txt
+pip install -r requirements.txt 
 
 (Note: If there is no requirements.txt, ensure you have the necessary libraries installed, like turtle for turtle animations.)
 
 Creating a comprehensive README.md file for your GitHub repository that contains Python projects like Chess_board.py, Digital_clock.py, Pong.game.py, Rainbow.py, Tic_tac_toe_board.py, and turtle_animation.py is essential for providing context and instructions for users. Below is a template you can use, complete with sections for each project, icons, and a touch of markdown animations.
-
-# 🐍 Python Projects Collection
-
-Welcome to my collection of Python projects! This repository features a variety of applications built using Python, showcasing different libraries and concepts. Each project is unique and offers a fun way to learn and explore programming.
-
----
-
-## 📂 Projects Overview
-
-Here's a quick overview of the projects included in this repository:
-
-| Project Name                 | Description                                | Screenshot                    |
-|------------------------------|--------------------------------------------|-------------------------------|
-| **Chess Board**              | A graphical representation of a chessboard. Supports basic chess moves. | ![Chess Board](https://via.placeholder.com/100) |
-| **Digital Clock**            | A digital clock that displays the current time.                             | ![Digital Clock](https://via.placeholder.com/100) |
-| **Pong Game**                | A simple implementation of the classic Pong game.                          | ![Pong Game](https://via.placeholder.com/100) |
-| **Rainbow Animation**        | A colorful animation that creates a rainbow effect using Turtle graphics.  | ![Rainbow Animation](https://via.placeholder.com/100) |
-| **Tic Tac Toe Board**        | A two-player Tic Tac Toe game with a graphical interface.                  | ![Tic Tac Toe](https://via.placeholder.com/100) |
-| **Turtle Animation**         | A fun turtle graphics animation demonstrating basic movement and shapes.   | ![Turtle Animation](https://via.placeholder.com/100) |
-
----
-
-## 🚀 Getting Started
-
-### Prerequisites
-
-To run these projects, you need to have Python installed on your machine. You can download it from [python.org](https://www.python.org/downloads/).
-
-### Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/akashvim3/Python-using-Tkinter-library-projects.git
-   cd Python-projects
-
-    Install any required libraries:
-
-    pip install -r requirements.txt
-
-    (Note: If there is no requirements.txt, ensure you have the necessary libraries installed, like turtle for turtle animations.)
 
 💻 Usage
 Chess Board
 
 Run the following command to start the chess board application:
 
-python Chess_board.py
+ python Chess_board.py
 
 Digital Clock
 
